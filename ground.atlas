@@ -1,0 +1,69 @@
+
+ground.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tile
+  rotate: false
+  xy: 2, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: 1
+tile
+  rotate: false
+  xy: 85, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: 2
+tile
+  rotate: false
+  xy: 168, 2
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: 3
+tile
+  rotate: false
+  xy: 251, 3
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: 6
+tile
+  rotate: false
+  xy: 334, 3
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 4
+tile
+  rotate: false
+  xy: 416, 3
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 5
+tile
+  rotate: false
+  xy: 498, 2
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: 7
+tile
+  rotate: false
+  xy: 580, 3
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 8
+tile
+  rotate: false
+  xy: 662, 3
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 9
