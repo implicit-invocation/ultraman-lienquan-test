@@ -1,0 +1,41 @@
+
+ui.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bar
+  rotate: false
+  xy: 704, 78
+  size: 629, 48
+  orig: 629, 48
+  offset: 0, 0
+  index: -1
+heart-empty
+  rotate: false
+  xy: 1335, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+heart-full
+  rotate: false
+  xy: 704, 30
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 2, 2
+  size: 700, 124
+  orig: 700, 124
+  offset: 0, 0
+  index: -1
+score-label
+  rotate: false
+  xy: 704, 59
+  size: 83, 17
+  orig: 83, 17
+  offset: 0, 0
+  index: -1
